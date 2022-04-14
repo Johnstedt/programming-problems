@@ -1,4 +1,4 @@
-package main;
+package misc.paint_bucket_tool;
 
 import java.util.Scanner;
 
